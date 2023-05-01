@@ -1,2 +1,1 @@
-# RepositorioHenry
-primer homework
+primer homework tambien agregue una carpeta y un archivo txt
